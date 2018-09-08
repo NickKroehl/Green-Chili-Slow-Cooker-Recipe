@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Ingredients
 
-You can use the [editor on GitHub](https://github.com/NickKroehl/Green-Chili-Slow-Cooker-Recipe/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- 1 pound green chiles
+- 6-8 cups chicken, beef, or vegetable broth
+- 1 pound tomatillos
+- 1 pound tomatoes
+- 2 onions
+- 4 cloves garlic
+- 2 pounds lean pork meat, cut into bite-sized pieces
+- 4 tablespoons corn meal or flour
+- 1 tablespoon cumin seeds, roasted on the stove and ground (or, to save time, plain cumin powder)
+- 1 teaspoon tumeric
+- 1 tablespoon oil
+- salt and pepper to taste
+- 4 6-inch corn tortillas
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Prep
 
-### Markdown
+**Roast your veggies:** Husk tomatillos and cut in half. Cut tomatoes in half. Cut onion in half but do not peel. Place tomatillos, tomatoes, onion, unpeeled garlic, and tortillas on a gas grill on medium heat and roast until charred, turning frequently to ensure all sides cook. If your chiles are fresh and unroasted, roast them too. Optionally, do this on the stovetop instead, using a large skillet.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Cool vegetables slightly. Peel onion, garlic and, if necessary, green chilis. If using roasted green chiles (you should!) do not clean under water. Blend all vegetables in food processor, blender, or immersion blender.
 
-```markdown
-Syntax highlighted code block
+## Cook
+**Meat:** Combine cumin, tumeric, salt, pepper and flour in bowl or plastic bag. Dredge pork in mixture. Heat oil in skillet or pan and add pork. Cook pork until browned.
 
-# Header 1
-## Header 2
-### Header 3
+**Slow Cooker:** Place veggies and pork in slow cooker. Add about 6-8 cups of liquid. Although chicken or beef broth works best, you can also use vegetable broth or just plain water. Use more liquid for a watery chili, or less for a thicker chili. Cook for 1 hour on high, to ensure the pork is fully and safely cooked. Cook 7 more hours on low.
 
-- Bulleted
-- List
+**Finish:** When chili is finished cooking, add salt and pepper to taste. If chili is too mild, you may also want to add more chili peppers but this should not be necessary if you start with hot chilis. This is a great leftover that improves after a day or so in the fridge. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NickKroehl/Green-Chili-Slow-Cooker-Recipe/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Notes
+I haven't actually made this yet.

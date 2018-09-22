@@ -8,7 +8,7 @@ Pork green chili stew in a slow cooker
 - 1 pound tomatillos
 - 1 pound tomatoes
 - 2 onions
-- 4 cloves garlic
+- 8 cloves garlic
 - 2 pounds lean pork meat, cut into bite-sized pieces
 - 4 tablespoons corn meal or flour
 - 1 tablespoon cumin powder, or cumin seeds roasted on the stove and ground
